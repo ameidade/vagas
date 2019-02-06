@@ -29,4 +29,4 @@ Não serão aceitas empresas montando banco de currículos
   - Para Backend no Brasil inteiro utilize: https://github.com/backend-br/vagas
   - Para Front-end no Brasil inteiro utilize: https://github.com/frontendbr/vagas
   - Para iOS ou macOS no Brasil inteiro utilize: https://github.com/CocoaHeadsBrasil/vagas
-  - Para Android no Brasil inteiro utilize: https://github.com/CocoaHeadsBrasil/vagas
+  - Para Android no Brasil inteiro utilize: https://github.com/androiddevbr/vagas
