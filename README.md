@@ -1,4 +1,4 @@
-# Vagas - Android Dev BR
+# Vagas de Tecnologia - Divinópolis e região (Centro-oeste mineiro) 
 
 Espaço para a divulgação de vagas de TI do centro-oeste mineiro, utilizando via issues do GitHub.
 
